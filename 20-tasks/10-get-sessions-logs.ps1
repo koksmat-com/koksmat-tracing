@@ -3,7 +3,7 @@ title: Get sessions log from pod
 tag: get-session-logs
 ---#>
 param (
-    $podname = "meeting-infrastructure-app-566dbff678-7nwh7"
+    $podname = "meeting-infrastructure-app-7f565544df-gpwbc"
 )
 
 
